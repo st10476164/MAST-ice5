@@ -10,6 +10,8 @@ For my weather app I decided to make my daily forecast cards horizontally scroll
 to get a api key that makes my design realistic. I chose a modern and minimalistic color design.
 
 ## Screenshot 
+<img width="375" height="640" alt="image" src="https://github.com/user-attachments/assets/ab9950a5-96b0-4793-be83-33581bde0c0a" />
+
 
 ## Reference List
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
